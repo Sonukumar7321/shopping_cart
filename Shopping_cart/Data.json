@@ -1,0 +1,62 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 12",
+        "description": "The iPhone 12 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle",
+        "price": 899,
+        "thumbnail": "/src/assets/i12.webp",
+        "quantity" : 1
+      },
+      {
+        "id": 2,
+        "title": "iPhone 13",
+        "description": "The iPhone 13 Pro camera system lets you take macro photos and videos and improved low-light shots",
+        "price": 1249,
+        "thumbnail": "/src/assets/i13.webp",
+        "quantity" : 1
+      },
+      {
+        "id": 3,
+        "title": "iPhone 14",
+        "description": "The major difference between iPhone 13 and 14 is the slightly faster A15 Bionic chip with a 5-core GPU and improved low-light camera performance in iPhone 14",
+        "price": 1349,
+        "category": "smartphones",
+        "thumbnail": "/src/assets/i14.webp",
+        "quantity" : 1
+      },
+      {
+        "id": 4,
+        "title": "iPhone 14 plus",
+        "description": "The iPhone 14 Plus measured as a standard rectangular shape, the screen is 16.95 centimetres (6.68″) diagonally (actual viewable area is less).",
+        "price": 1549,
+        "thumbnail": "/src/assets/i14 plus.webp",
+        "quantity" : 1
+      },
+      {
+        "id": 5,
+        "title": "iPhone 15",
+        "description": "The iPhone 15 still looks like the past few generations of iPhone, but its aluminum enclosure is now contoured to give it a more comfortable feel in the hand.",
+        "price": 1849,
+        "thumbnail": "/src/assets/i15.webp",
+        "quantity" : 1
+      },
+      {
+        "id": 6,
+        "title": "iPhone 15 plus",
+        "description": "iPhone 15 plus measured as a standard rectangular shape, the screen is 17.00 cm (6.69″) diagonally ",
+        "price": 1949,
+        "thumbnail": "/src/assets/i15 plus.webp",
+        "quantity" : 1
+      },
+      {
+        "id": 7,
+        "title": "iPhone 15 pro",
+        "description": "Apple iPhone 15 Pro is powered by a hexa-core Apple A17 Pro processor. It comes with 8GB of RAM. The Apple iPhone 15 Pro supports wireless charging",
+        "price": 2049,
+        "thumbnail": "/src/assets/i15 pro.webp",
+        "quantity" : 1
+      }
+    ]
+  }
+  
